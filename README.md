@@ -1,8 +1,5 @@
 # Dual-Domain Feature Fusion: Enhancing Infrared Small Target Detection through Spatial-Frequency Synergy
 
-## Notice
-The code repository is directly associated with the manuscriptDual-Domain Feature Fusion: Enhancing Infrared Small Target Detection through Spatial-Frequency Synergy that has been submitted to The Visual Computer journal. This implementation constitutes an integral part of the research presented in the submitted work. Readers are kindly requested to cite this manuscript when referencing or utilizing the code in related research.
-
 ## Training
 The training command is very simple like this:
 ```
